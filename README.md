@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm programming teacher at the Thomas More Technical College in Belgium where I mostly teach JavaScript related courses. 
+I'm programming teacher at the Thomas More University of Applied Sciences in Belgium where I mostly teach JavaScript related courses. 
 
 ### Projects
 
